@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI",
+  "description": "Enterprise Adaptive Credit Card Fraud Intelligence Platform powered by Kafka, Spark, Behavioral Profiling, and Hybrid Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
